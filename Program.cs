@@ -38,3 +38,4 @@ switch (flag) {
 }
 
 estruturas_csharp.EstruturasDeRepeticao.executar();
+estruturas_csharp.Vetores.executar();
